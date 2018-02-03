@@ -1,0 +1,22 @@
+Options -MultiViews
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+# get rid of index.html
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^(.*)/index\.html$ /$1/ [R=301,L]
+# add trailing slash if missing
+RewriteCond %{REQUEST_URI} /+[^\.]+$
+RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+# delete multiple trailing slashes if there are several
+RewriteCond %{THE_REQUEST} \s/+(.*?)/{2,}([^\s]*)
+RewriteRule ^ %1/%2 [R=301,L,NE]
+# load page as if it were page.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.+)/$ $1.html [L,QSA]
+# get rid of html if present
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*\.html\ HTTP/
+RewriteRule ^(.*)\.html$ /$1/ [R=301,L]
+</IfModule>

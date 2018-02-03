@@ -1,0 +1,92 @@
+{
+  "site": "PPSE: The Polyphasic Sleeping Experimentation Guide",
+  "titleFormat": "$TITLE$ - Polyphasic Sleeping Experimentation Guide",
+  "defaults": {
+    "template": "primary.ftl",
+    "header": "empty.ftl",
+    "footer": "ppse.ftl",
+    "sidebar": "empty.ftl"
+  },
+  "sections": {
+    "/index": {
+      "page": "index.ftl",
+      "title": "Home Page"
+    },
+    "/basics/": {
+      "header": "basics.ftl",
+      "page": "basics.ftl",
+      "title": "Introduction"
+    },
+    "/basics/sleep-mechanics": {
+      "header": "basics.ftl",
+      "page": "basics_sleep-mechanics.ftl",
+      "title": "Sleep Mechanics"
+    },
+    "/basics/lifestyle": {
+      "header": "basics.ftl",
+      "page": "basics_lifestyle.ftl",
+      "title": "Lifestyle Considerations"
+    },
+    "/scheduling/": {
+      "header": "scheduling.ftl",
+      "page": "scheduling.ftl",
+      "title": "Scheduling Introduction"
+    },
+    "/scheduling/biphasic": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_biphasic.ftl",
+      "title": "Biphasic"
+    },
+    "/scheduling/everyman": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_everyman.ftl",
+      "title": "Everyman"
+    },
+    "/scheduling/dual-core": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_dual-core.ftl",
+      "title": "Dual Core"
+    },
+    "/scheduling/tri-core": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_tri-core.ftl",
+      "title": "Tri Core"
+    },
+    "/scheduling/uberman": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_uberman.ftl",
+      "title": "Uberman"
+    },
+    "/scheduling/dymaxion": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_dymaxion.ftl",
+      "title": "Dymaxion"
+    },
+    "/scheduling/tesla": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_tesla.ftl",
+      "title": "Tesla"
+    },
+    "/scheduling/spamayl": {
+      "header": "scheduling.ftl",
+      "page": "scheduling_spamayl.ftl",
+      "title": "SPAMAYL"
+    },
+    "/adaptation/": {
+      "page": "adaptation.ftl",
+      "title": "Adaptation"
+    },
+    "/eeg/": {
+      "page": "eeg.ftl",
+      "title": "EEG"
+    },
+    "/software/": {
+      "page": "software.ftl",
+      "title": "Software"
+    },
+    "/notes/": {
+      "page": "notes.ftl",
+      "title": "Polyphasic sleeping experiment notes"
+    }
+  }
+}

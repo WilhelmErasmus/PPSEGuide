@@ -1,0 +1,26 @@
+<h1>Biphasic</h1>
+<p>The biphasic family of sleep schedules consists of schedules which have 2 sleep blocks. The two major biphasic sleep types (Segmented and Siesta) have been used for a long time throughout history, and are well established as working schedules throughout the world. Arguably, sleeping in a biphasic style could be considered more healthy and more natural than sleeping monophasically, as the rhythms of the body naturally tend to lean towards biphasic sleep when electric light is removed.</p>
+<p>While these sleep schedules do not reduce sleep by all that much, the sleep quality of properly scheduled biphasic sleep is still often noticeably higher than on mono. For this reason, biphasic sleep is usually strongly recommended for those who cannot significantly reduce their sleep time (e.g. due to being underage or having heavy SWS requirements) or for those who have no prior experience with polyphasic sleeping (because the adaptation period is not very rough).</p>
+<hr/>
+<h2>Segmented (7 hrs)</h2>
+<p><a href="https://napchart.com/k0mot"><img src="https://ncimg.tinytimrob.com/k0mot" height=300 /></a></p>
+<p><strong>Adaptation difficulty:</strong> EASY</p>
+<p>Segmented sleeping is a traditional form of sleeping which was widely used by pre-industrial humans prior to the introduction of electric lighting. It consists of two cores of equal length with a waking block in-between.</p>
+<p>The logic behind this schedule is based on the peaks for SWS and REM being around 9h apart. A single long 8h monophasic sleep cannot possibly capture both peaks, and trying to extend a monophasic sleep session to cover both of them is likely to result in too much sleep, which can have a number of undesired consequences. Instead, with a segmented sleep style, because the gap between start and end of sleep is wider, the first core is closer to the peak SWS time and the second core is closer to the peak REM time. Focusing the cores to specific sleep types in this fashion gives higher sleep quality, which subsequently allows for a small reduction in total sleep time.</p>
+<p>Typically, each sleep block will be 3.5h long and the gap between them should be at least 2 hours. Each core consists of 2 full sleep cycles plus an extra 30 mins of sleep time to cover the statistically likely REM period. The extra REM time compensates for the fact that the schedule only contains 4 cycles instead of 5. The 2 hour gap avoids the two sleep sessions being treated as interrupted sleep. After consistently sleeping on this schedule, the cycles in each core can extend to fill the full core time.</p>
+<p>For ideal scheduling, the first core should be placed to start around 9-10pm, placing the second core 6.5 hours later at around 3.30-4.30am.</p>
+<hr/>
+<h2>Siesta (6 hrs 30 mins)</h2>
+<p><a href="https://napchart.com/e72xy"><img src="https://ncimg.tinytimrob.com/e72xy" height=300 /></a></p>
+<p><strong>Adaptation difficulty:</strong> EASY</p>
+<p>The siesta sleep pattern is another traditional form of sleeping. It consists of a long core during the night followed by a short one in the afternoon. Siestas are widely practiced throughout the world and are typically associated with Spanish culture.</p>
+<p>The logic behind this schedule is based on the fact that the circadian rhythm has a low point during the early afternoon, usually around 1pm-3pm. Because of this, most people in western cultures find the early afternoon to be the least productive time of the day and often take coffee breaks to allow them to power through until hometime. Placing a block of sleep here instead allows for better use of this natural period of tiredness experienced by the body. The core at night can then be significantly shortened without compromising sleep quality.</p>
+<p>Typically, the night core will be around 5h in length, allowing for 3 complete sleep cycles plus an extra 30 mins of sleep time to cover the statistically likely REM period. The afternoon core is 1 complete cycle (90m). As with Segmented, the extra REM time in the core compensates for the fact that the schedule only contains 4 cycles instead of 5.</p>
+<p>For ideal scheduling, the night core should be placed to start around 11pm and the afternoon core placed at around 1pm.</p>
+<hr/>
+<h2>Everyman 1 (6 hrs 20 mins)</h2>
+<p><a href="https://napchart.com/30lbn"><img src="https://ncimg.tinytimrob.com/30lbn" height=300 /></a></p>
+<p><strong>Adaptation difficulty:</strong> EASY</p>
+<p>Everyman 1, usually shortened to just E1, is a cross between the Siesta and Everyman sleep patterns, and is the first to introduce 20-minute naps. A long core at night, usually 4 cycles (6 hours) in length, is complimented by a 20-minute nap in order to give 5 cycles of equivalent rest.</p>
+<p>This schedule is often attempted by polyphasic beginners because it is an easy schedule to get used to, while simultaneously providing an introduction to 20 minute naps. This helps to provide napping practice in a relatively safe setting with a low adaptation difficulty. After successfully adapting to Everyman 1, the basic groundwork is in place to move up to more difficult schedules.</p>
+<p>For ideal scheduling, the core should be placed to start around 11pm and the nap placed at around 1pm.</p>
