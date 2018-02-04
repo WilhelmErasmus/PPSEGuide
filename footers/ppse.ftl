@@ -1,2 +1,2 @@
 <p>Polyphasic sleeping experiment web content &copy; Robert James Dennington 2018<br/>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p> Source code for this site is <a href="https://github.com/PolyphasicDevTeam/PPSEGuide">available on GitHub</a>.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Source code and contributor list for this site is <a href="https://github.com/PolyphasicDevTeam/PPSEGuide">available on GitHub</a>.</p>
