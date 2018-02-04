@@ -13,7 +13,7 @@
 <h2>Tri Core 1 (4 hrs 50 mins)</h2>
 <p><a href="https://napchart.com/tocl4"><img src="https://ncimg.tinytimrob.com/tocl4" height=300 /></a></p>
 <p><strong>Adaptation difficulty:</strong> MODERATE</p>
-<p>This is variation of the Triphasic schedule was prototyped by the Polyphasic Discord community in 2017 and is one of the newest known viable schedules. The concept behind this schedule is that the cores are moved to typical night time sleeping hours only, which avoids having to take a long core during the afternoon, one of the main reasons people are put off from trying Triphasic.</p>
+<p>This variation of the Triphasic schedule was prototyped by the Polyphasic Discord community in 2017 and is one of the newest known viable schedules. The concept behind this schedule is that the cores are moved to typical night time sleeping hours only, which avoids having to take a long core during the afternoon, one of the main reasons people are put off from trying Triphasic.</p>
 <p>Because the 4.5 hours of core sleep does not allow for over 12 hours awake in a row, a nap must be added to compensate for the closer spacing of the cores. The added nap is typically placed right in the middle of the waking block at the same time as the afternoon core of Triphasic.</p>
 <p>SWS deprivation symptoms during adaptation are less likely on this schedule than on Triphasic, because the mixed core in the night is likely to allow for decent amounts of SWS.</p>
 <hr/>
