@@ -6,7 +6,7 @@
 <h2>Dual Core 1 (5 hrs 10 mins)</h2>
 <p><a href="https://napchart.com/ugn4g"><img src="https://ncimg.tinytimrob.com/ugn4g" height=300 /></a></p>
 <p><strong>Adaptation difficulty:</strong> MODERATE</p>
-<p>This is the first Dual Core schedule, and follows logically from Segmented sleep. The extended cycle length from Segmented is retained, although shortened a little down to around 100 minutes per cycle, and like with Segmented the first core also gets extra sleep time to cover the statistically likely REM period. The second core is reduced to a single cycle in length, because the second cycle of that core from Segmented is replaced with a nap.</p>
+<p>This is the first Dual Core schedule, and follows logically from Segmented sleep. The second core on this schedule is reduced to a single cycle in length when compared with Segmented, because the second cycle of Segmented's core is replaced with a nap.</p>
 <p>In general, while this schedule has the same total sleep time as Everyman 2, the adaptation is considered slightly harder.</p>
 <p>Ideal scheduling is to place the first core at around 9.30pm, the second core at around 6am and the nap at around 2pm. If modification is needed, the core gap could potentially be shortened a bit, but this risks moving the sleep blocks further out of the favourable REM and SWS timings. Rotating this schedule is also very challenging for the same reason. If the schedule does get rotated, the entire circadian rhythm might have to shift around to compensate for the delay.</p>
 <hr/>
