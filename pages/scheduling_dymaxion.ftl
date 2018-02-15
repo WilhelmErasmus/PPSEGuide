@@ -17,4 +17,5 @@
 <h4>Bimaxion (4 hrs) and Trimaxion (3 hrs)</h4>
 <p><a href="https://napchart.com/qamnm"><img src="https://ncimg.tinytimrob.com/qamnm" height=300 /></a> <a href="https://napchart.com/awkwb"><img src="https://ncimg.tinytimrob.com/awkwb" height=300 /></a></p>
 <p><strong>Adaptation difficulty:</strong> HARD (Bimaxion) / VERY HARD (Trimaxion)</p>
-<p>These experimental transitional schedules follow a similar concept to those for Uberman. This essentially results in Dymaxion-style schedules where either 1 or 2 naps end up being replaced with cores. The transition approach is similar (usually Bimaxion -> Trimaxion -> Dymaxion) and suffers from the same issues as Uberman's transitional schedules.</p>
+<p>These experimental '-maxion' transitional schedules follow a similar concept to those for Uberman. This essentially results in Dymaxion-style schedules where either 1 or 2 naps end up being replaced with cores. The transition approach is similar (usually Bimaxion -> Trimaxion -> Dymaxion) and suffers from the same issues as Uberman's transitional schedules.</p>
+<p>In a weird choice of naming, the Bimaxion schedule used to be known as Quadphasic, which was a super dumb name. Fortunately it's not called that any more.</p>
