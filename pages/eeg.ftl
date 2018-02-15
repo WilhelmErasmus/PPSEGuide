@@ -1,1 +1,1 @@
-<h3>I have not finished this page yet (SORRY!)</h3>
+<p>This part of the guide is coming soon!</p>

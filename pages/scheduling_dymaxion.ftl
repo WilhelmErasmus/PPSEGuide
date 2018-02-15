@@ -19,3 +19,10 @@
 <p><strong>Adaptation difficulty:</strong> HARD (Bimaxion) / VERY HARD (Trimaxion)</p>
 <p>These experimental '-maxion' transitional schedules follow a similar concept to those for Uberman. This essentially results in Dymaxion-style schedules where either 1 or 2 naps end up being replaced with cores. The transition approach is similar (usually Bimaxion -> Trimaxion -> Dymaxion) and suffers from the same issues as Uberman's transitional schedules.</p>
 <p>In a weird choice of naming, the Bimaxion schedule used to be known as Quadphasic, which was a super dumb name. Fortunately it's not called that any more.</p>
+<h2>Scheduling Variations</h2>
+<h3>Dymaxion 6 (3 hrs)</h3>
+<p><a href="https://napchart.com/z2121"><img src="https://ncimg.tinytimrob.com/z2121" height=300 /></a></p>
+<p><strong>Adaptation difficulty:</strong> INSANELY HARD</p>
+<p><strong>Also known as:</strong> D6</p>
+<p>This schedule consists of six equidistant 30-minute naps and is often mislabelled as Uberman, because it is essentially Uberman with 30-minute naps instead of 20-minute ones, giving it Dymaxion's universally crappier wakes. While I've heard of a tiny minority who pulled this one off successfully, it's likely to feel suckier than Uberman in the long term while having almost the exact same levels of inconvenience. The design of the schedule means it will largely suffer from all of the same adaptation issues as other nap-only schedules as well. Consequently, I really don't recommend this schedule.</p>
+<p>n.b. Due to the sheer insanity of nap-only schedules and the increased wake difficulty given by 30-minute naps, I opted to keep this schedule under the INSANELY HARD difficulty despite it having a sleep total of 3 hours that would normally have qualified it for VERY HARD difficulty.</p>

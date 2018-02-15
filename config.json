@@ -1,6 +1,6 @@
 {
-  "site": "PPSE: The Polyphasic Sleeping Experimentation Guide",
-  "titleFormat": "$TITLE$ - Polyphasic Sleeping Experimentation Guide",
+  "site": "PPSE: Polyphasic Sleeping Experimentation Guide",
+  "titleFormat": "$TITLE$ - PPSE: Polyphasic Sleeping Experimentation Guide",
   "defaults": {
     "template": "primary.ftl",
     "header": "empty.ftl",

@@ -36,11 +36,11 @@
 <h2>Scheduling Variations</h2>
 <p>An equidistant six-nap version of Uberman is not the only version which is possible. Here are some alternatives.</p>
 <h3>Uberman 8 (2 hrs 40 mins)</h3>
-<p><a href="https://napchart.com/93ix0"><img src="https://ncimg.tinytimrob.com/93ix0" height=300 /></a></p>
+<p><a href="https://napchart.com/75b9t"><img src="https://ncimg.tinytimrob.com/75b9t" height=300 /></a></p>
 <p><strong>Adaptation difficulty:</strong> INSANELY HARD</p>
 <p><strong>Also known as:</strong> U8</p>
 <p>Uberman 8 is a variation of Uberman which has 8 naps instead of 6. It has been proposed in the past by Polyphasic Society. So far there are no reports of success on this schedule, but in theory it might be more sustainable than regular Uberman because of the extra sleep time. (For those with higher sleep needs, the extra 40 minutes might be the difference between make or break on the schedule.) Unfortunately it suffers from the problem of being even more impractical than regular Uberman because the wake time between naps is only 2h40 which is just about too short to be able to viably do anything with. Consequently I don't recommend this schedule.</p>
 <h3>Non Equidistant Uberman (2 hrs)</h3>
-<p><a href="https://napchart.com/mdk5f"><img src="https://ncimg.tinytimrob.com/mdk5f" height=300 /></a></p>
+<p><a href="https://napchart.com/zy2r6"><img src="https://ncimg.tinytimrob.com/zy2r6" height=300 /></a></p>
 <p><strong>Adaptation difficulty:</strong> INSANELY HARD</p>
 <p>This is another variation which I've sometimes seen suggested. More of the naps are placed at night, where SWS and REM pressure typically tends to be greater. For the sake of completeness I figured I should include this one. Sadly, due to the difficulty staying awake 5h40 on Uberman schedules, I can't recommend this one and it's probably best avoided. I haven't heard of anybody successfully adapting to it either.</p>

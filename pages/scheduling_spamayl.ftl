@@ -1,0 +1,1 @@
+<p>I haven't written this page yet. For now please ask questions regarding SPAMAYL and SEVAMAYL on the Discord.</p>

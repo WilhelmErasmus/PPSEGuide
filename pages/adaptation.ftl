@@ -1,1 +1,1 @@
-<h3>I have not finished this page yet (SORRY!)</h3>
+<p>I haven't written this page yet. For now please refer to the adaptation section of the OLD NOTES or ask questions regarding adaptation on the Discord.</p>
