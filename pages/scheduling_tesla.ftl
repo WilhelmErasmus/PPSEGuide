@@ -1,0 +1,7 @@
+<h1>Tesla (1 hr 20 mins)</h1>
+<p><a href="https://napchart.com/s2x5u"><img src="https://ncimg.tinytimrob.com/s2x5u" height=300 /></a></p>
+<p><strong>Adaptation difficulty:</strong> INSANELY HARD</p>
+<p><strong>Also known as:</strong> Uberman 4 or U4</p>
+<p>Tesla is a rather ridiculous schedule designed by Sharif Olorin in 2009 which combines aspects of both Uberman and Dymaxion. It consists of four equidistant 20 minute naps (one nap every 6 hours) and NO cores, giving a total of 1 hour 20 minutes of sleep per day.</p>
+<p>This schedule was NOT practised by Tesla - it just got named after him because Sharif thought he was cool. Tesla practicing the Tesla schedule is an urban myth.</p>
+<p>I honestly haven't bothered to write anything else about this schedule, because I don't consider it to be even remotely viable. The creator of the schedule and his friend supposedly adapted to it for a short time, but I'm skeptical about that given how misleading the other nap-only schedules are when it comes to adaptation feelings. In the event that it turns out to be plausible for people to pull off, I would expect the basic mechanics and adaptation experience to be along the lines of Uberman, but far more intense. At any rate, I really don't recommend you try out this one at all (at least not before you've been successful with some other nap-only schedule first).</p>

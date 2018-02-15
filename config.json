@@ -12,6 +12,10 @@
       "page": "index.ftl",
       "title": "Home Page"
     },
+    "/contributors/": {
+      "page": "contributors.ftl",
+      "title": "Contributors"
+    },
     "/basics/": {
       "header": "basics.ftl",
       "page": "basics.ftl",
