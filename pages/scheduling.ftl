@@ -9,7 +9,7 @@
 <li>The circadian and ultradian rhythms determine when you are most likely to feel drowsy, along with optimal times for SWS and REM acquisition (near to dusk and dawn, respectively). You want to place your sleep blocks during these times to improve sleep quality and to reduce the amount of time that will be spent awake in a drowsy state.</li>
 <li>Waking up during LNREM is most preferable, because this is the lightest sleep phase and the easiest to wake from. The largest chunk of LNREM happens at the end of each sleep cycle, which is roughly every 90 minutes, so this would be an optimal time to wake up.</li>
 <li>Waking up during REM is not as preferable, since if you wake up during REM you are losing some of the REM sleep which you are trying to preserve. It is also not as light as LNREM, so waking will be a little harder.</li>
-<li>Waking up during SWS (normally starting around 25 minutes into each cycle) should be completely avoided, because brain activity at this time is reduced. SWS wakes are likely to lead to things such as grogginess and sleep inertia, failure to wake up, or zombying off the alarm and going straight back to sleep (which will result in an oversleep that leads to adaptation failure). It also sucks for dream memory retention.</li>
+<li>Waking up during SWS (normally starting around 25 minutes into each cycle when SWS pressure and compression is low) should be completely avoided, because brain activity at this time is reduced. SWS wakes are likely to lead to things such as grogginess and sleep inertia, failure to wake up, or zombying off the alarm and going straight back to sleep (which will result in an oversleep that leads to adaptation failure). It also sucks for dream memory retention.</li>
 <li>The first sleep cycle of a sleep session is likely to be the deepest, as this is generally the time when the need for sleep is most urgent and when REM or SWS rebound is likely to occur (typically lasting anywhere up to 25 minutes). Because of this, you will probably get deeper sleep from sleep blocks that only consist of sleep from the first sleep cycle, and if you want to create a sleep block which consists only of rebounded sleep then you will have to keep the sleep block shorter than 25 minutes.</li>
 <li>Short high-quality sleep blocks of around 20 minutes in length seem to be roughly as effective at restoring wakefulness/alertness as a full 90 minute sleep cycle.</li>
 <li>You want to keep your sleep blocks far apart enough that they are not treated as a single interrupted sleep session.</li>
@@ -27,7 +27,7 @@
 <p>So what makes the perfect nap length? The normal answer here given is 20 minutes. The reason for this choice is because:</p>
 <ul>
 <li>In order to get REM sleep in naps, you need to enter REM rebound. Sleep rebounds tend to last just under 25 minutes, after which point a normal sleep cycle resumes. After this point you will not get any considerable REM gains for a while and may as well stop napping.</li>
-<li>When the body needs SWS, this stage will start at around the 25 minute mark. You want to completely avoid entering this stage, so you should stop napping before you reach this point.</li>
+<li>When the SWS pressure and cycle compression levels are not high, the SWS stage will start at around the 25 minute mark. You want to completely avoid entering this stage, so you should stop napping before you reach this point.</li>
 <li>High-quality sleep blocks of around 20 minutes in length seem to be roughly as effective at restoring wakefulness/alertness as 1 sleep cycle, so keeping the length at 20 minutes makes scheduling easier.</li>
 </ul>
 <p>There are a small number of proponents out there for 30 minute naps instead. The logic behind these naps is that in some cases (e.g. before or after extreme sports) it might be beneficial to get some SWS in the naps in order to allow for prioritization of certain actions of sleep (such as healing muscles and repairing tissue damage) rather than having an easy wake. In these circumstances, a slightly longer nap (usually 30 minutes) allows for a small amount of SWS for these purposes. Other nap lengths are also currently under debate, but are not well tested. Due to wake time programming, the body should eventually learn to insert light sleep at the end of these extended naps, which should make them easier to wake from in the long term. In general, however, the consensus is usually that naps ending in SWS should be avoided unless there is a good reason for them, and inexperienced polyphasers should probably avoid these to be on the safe side.</p>
@@ -41,6 +41,8 @@
 <li>20 minute nap</li>
 </ul>
 <p>The 5 cycle core can probably be discounted, since this is just mono sleep, so this leaves us with five remaining scheduling options. The core lengths are adjustable to different cycle lengths as well.</p>
+<h4>Additional considerations for nap lengths on schedules with low sleep totals</h4>
+<p>The above scheduling guidelines with regards to naps, i.e. to be REM-focused only, and to be limited to 20 minute lengths, are typically only relevant to schedules above or near the minimum sleep threshold. For schedules with extremely reduced sleep times or with only a very short amount of sleep time allocated to SWS favourable periods, it is not possible to avoid SWS in all naps, because there will be high levels of sleep compression and high levels of SWS pressure. This is especially true for nap-only schedules, which do not have any core sleeps at all, and consequently where the only time for SWS gain is naps. On these schedules, consistency in nap length is more critically important than the exact length of the nap, as the focus is to make use of wake-time programming to allow for easier wakes rather than avoiding SWS naps altogether.</p>
 <h3>Categorizing Schedules</h3>
 <p>Now that we have the building blocks of polyphasic sleep schedules, we can categorize them into groups. The vast majority of polyphasic communities group schedules as follows:</p>
 <ul>
@@ -77,11 +79,10 @@
 <li><strong>Extended:</strong> The core sleep time has been extended from its normal length (typically, the total number of complete or interrupted sleep cycles is more than 5).</li>
 <li><strong>Flipped:</strong> The entire schedule is flipped, with the core sleep being during daytime and the naps at night. Normally attempted by those who work the graveyard shift.</li>
 <li><strong>Modified:</strong> Something else fundamental is changed about the schedule which stops it following the normal design rules of that schedule (e.g. a dual core schedule where the cores are not next to each other).</li>
-<li><strong>Mutated:</strong> Indicates that someone is on schedule which makes use of a genetic mutation, allowing them to sleep significantly less than normal without suffering from high levels of sleep deprivation. Not applicable to most people.</li>
 <li><strong>Recovery:</strong> Indicates that someone is recovering from high levels of sleep deprivation, intending to go back to a more demanding polyphasic sleep schedule once recovery is over.</li>
 </ul>
 <p>Typically these schedule modifiers will be appended after the abbreviated schedule name, printed in a format such as 'E3-extended', 'DC2-flipped', 'Segmented-shortened', etc. This is the format currently used within the Discord server and probably a good idea to stick to. Non-standard modifiers such as 'reduced' or 'lengthened' should be avoided.</p>
-<p>The mutated and recovery modifiers are typically only used as modifiers for those on a monophasic sleep pattern (e.g. Mono-mutated and Mono-recovery).</p>
+<p>The recovery modifier is typically only used as a modifier for those on a monophasic sleep pattern (Mono-recovery).</p>
 <h3>Schedule Difficulty</h3>
 <p>For each schedule on the site, I have ranked them in difficulty as follows based on their sleep time totals:</p>
 <ul>
